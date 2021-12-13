@@ -31,7 +31,7 @@ var data =
 				option1: "Extrinsic asthma is initiated by diverse non-immune mechanisms",
 				option2: "Sub-epithelial vagal receptors in respiratory mucosa are insensitive to irritants",
 				option3: "Bronchial wall smooth muscle is atrophic",
-				option4: "Primary mediators include eosinophilicand neutrophilic chemotactic factors",
+				option4: "Primary mediators include eosinophilic and neutrophilic chemotactic factors",
 				answer: 4
 			},
 			{
